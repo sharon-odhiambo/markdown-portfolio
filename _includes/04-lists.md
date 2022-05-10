@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Enjoying my new Passion in Programming
+Swimmer
+Conversationalist
+Scrabble Lover
+Solving mathematical tests
