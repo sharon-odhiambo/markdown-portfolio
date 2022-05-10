@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am an ambitious and _self-motivated_ new _programmer_ and _mathematician_ who enjoys solving problems with _creative codes_ and building projects by incorporating various programming languages.
